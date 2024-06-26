@@ -11,6 +11,16 @@ Soy un estudiante apasionado por la tecnología y la programación. Actualmente,
 - 💼 Trabajando en Capgemini
 - 🏫 Perfil de la universidad: [uo277274](https://github.com/uo277274)
 
+
+
+## Proyectos Destacados
+
+### [WIQ](https://github.com/Arquisoft/wiq_en2)
+Aplicación inspirada en "Saber y Ganar" donde los jugadores responden preguntas generadas automáticamente desde Wikidata.
+
+### [Curso Capgemini](https://github.com/plobetoa/CursoCapgemini)
+Repositorio del bootcamp de Capgemini Asturias, con ejemplos y ejercicios prácticos en Java, Spring, JavaScript, Node.js y Angular.
+
 ## Lenguajes y Herramientas
 
 <p align="left">
@@ -28,13 +38,6 @@ Soy un estudiante apasionado por la tecnología y la programación. Actualmente,
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="40"/>
   <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" height="40"/>
 </p>
-## Proyectos Destacados
-
-### [WIQ](https://github.com/Arquisoft/wiq_en2)
-Aplicación inspirada en "Saber y Ganar" donde los jugadores responden preguntas generadas automáticamente desde Wikidata.
-
-### [Curso Capgemini](https://github.com/plobetoa/CursoCapgemini)
-Repositorio del bootcamp de Capgemini Asturias, con ejemplos y ejercicios prácticos en Java, Spring, JavaScript, Node.js y Angular.
 
 
 
