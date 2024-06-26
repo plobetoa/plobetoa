@@ -30,16 +30,19 @@ Soy un estudiante apasionado por la tecnología y la programación. Actualmente,
 
 ## Proyectos Destacados
 
-### ([Bootcamp Java](https://github.com/plobetoa/CursoCapgemini))
+### [Bootcamp Java](https://github.com/plobetoa/CursoCapgemini)
 Descripción breve del proyecto.
 
-### ([Conocer y vencer](https://github.com/Arquisoft/wiq_en2a))
-Descripción breve del proyecto.
+### [Conocer y vencer](https://github.com/Arquisoft/wiq_en2a)
+Conocer y vencer es una aplicación desarrollada como parte del curso de Arquitectura de Software de la Universidad de Oviedo. Inspirada en el programa "Saber y Ganar", permite a los jugadores responder preguntas generadas automáticamente desde Wikidata sobre diversos temas.
 
-## Estadísticas de GitHub
+#### Tecnologías Utilizadas
+- Frontend: React, Tailwind CSS, Material UI
+- Backend: Node.js, Express
+- Base de Datos: MariaDB
+- Otros: Docker, Wikidata API
+#### Funcionalidades
+- Juego de preguntas con diferentes categorías.
+- Generación automática de preguntas desde Wikidata.
+- Sistema de ranking y estadísticas de usuario.
 
-![Estadísticas de GitHub de plobetoa](https://github-readme-stats.vercel.app/api?username=plobetoa&show_icons=true&theme=radical)
-![Top Langs de plobetoa](https://github-readme-stats.vercel.app/api/top-langs/?username=plobetoa&layout=compact&theme=radical)
-
-![Estadísticas de GitHub de uo277274](https://github-readme-stats.vercel.app/api?username=uo277274&show_icons=true&theme=radical)
-![Top Langs de uo277274](https://github-readme-stats.vercel.app/api/top-langs/?username=uo277274&layout=compact&theme=radical)
