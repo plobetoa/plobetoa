@@ -15,7 +15,7 @@ Soy un estudiante apasionado por la tecnología y la programación. Actualmente,
 
 ## Proyectos Destacados
 
-### [WIQ](https://github.com/Arquisoft/wiq_en2)
+### [WIQ](https://github.com/Arquisoft/wiq_en2a)
 Aplicación inspirada en "Saber y Ganar" donde los jugadores responden preguntas generadas automáticamente desde Wikidata.
 
 ### [Curso Capgemini](https://github.com/plobetoa/CursoCapgemini)
