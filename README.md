@@ -39,5 +39,11 @@ Repositorio del bootcamp de Capgemini Asturias, con ejemplos y ejercicios práct
   <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" height="40"/>
 </p>
 
+## Estadísticas de GitHub
+ 
+![Estadísticas de GitHub de plobetoa](https://github-readme-stats.vercel.app/api?username=plobetoa&show_icons=true&theme=radical)
+![Top Langs de plobetoa](https://github-readme-stats.vercel.app/api/top-langs/?username=plobetoa&layout=compact&theme=radical)
+
+
 
 
