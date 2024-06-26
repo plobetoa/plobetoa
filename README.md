@@ -16,7 +16,7 @@ Soy un estudiante apasionado por la tecnología y la programación. Actualmente,
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/dot-net.png" alt=".NET" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" height="40"/>
   <img src="https://img.icons8.com/external-outline-juicy-fish/60/000000/external-sql-coding-and-development-outline-outline-juicy-fish.png" alt="SQL" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" height="40"/>
