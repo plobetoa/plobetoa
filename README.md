@@ -13,8 +13,21 @@ Soy un estudiante apasionado por la tecnología y la programación. Actualmente,
 
 ## Lenguajes y Herramientas
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
-
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/dot-net.png" alt=".NET" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" height="40"/>
+  <img src="https://img.icons8.com/external-outline-juicy-fish/60/000000/external-sql-coding-and-development-outline-outline-juicy-fish.png" alt="SQL" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="40"/>
+  <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" height="40"/>
+</p>
 ## Proyectos Destacados
 
 ### [WIQ](https://github.com/Arquisoft/wiq_en2)
