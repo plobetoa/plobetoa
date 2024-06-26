@@ -1,4 +1,4 @@
-# Hola, soy Plobetoa! 👋
+# Hola, soy Pablo Lobeto Arenas! 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/plobetoa?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/plobetoa?style=social)
@@ -31,7 +31,16 @@ Soy un estudiante apasionado por la tecnología y la programación. Actualmente,
 ## Proyectos Destacados
 
 ### [Bootcamp Java](https://github.com/plobetoa/CursoCapgemini)
-Descripción breve del proyecto.
+Repositorio del bootcamp de Capgemini Asturias, orientado a la formación en tecnologías Java, Spring, JavaScript, Node.js y Angular.
+#### Tecnologías Utilizadas
+- Java
+- Spring
+- JavaScript
+- Node.js
+- Angular
+#### Funcionalidades
+- Ejemplos y ejercicios prácticos de cada tecnología.
+- Proyectos de demostración y kata de codificación.
 
 ### [Conocer y vencer](https://github.com/Arquisoft/wiq_en2a)
 Conocer y vencer es una aplicación desarrollada como parte del curso de Arquitectura de Software de la Universidad de Oviedo. Inspirada en el programa "Saber y Ganar", permite a los jugadores responder preguntas generadas automáticamente desde Wikidata sobre diversos temas.
